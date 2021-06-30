@@ -12,3 +12,7 @@
         - mixed
         - soft
         - hard
+    - git stash
+    - git stash pop
+    - git branch
+    - git merge
